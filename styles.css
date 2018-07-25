@@ -203,6 +203,14 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+  .achievements li {
+    border-radius: 8px;
+    background: rgb(20, 138, 248);
+    color: white;
+    padding: 8px 10px;
+    margin: 2px;
+    text-align: center;
+  }
 
  
 
