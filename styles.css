@@ -98,7 +98,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 20px;
   transition: all .5s;
-  justify-content: left
+  justify-content: center;
  
 }
 
